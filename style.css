@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color:white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color:white;
+    background-color: rebeccapurple;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    background-size: 50% auto;
+
+}
+
+h3 {
+    color: rebeccapurple;
+    background-color: skyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: rebeccapurple underline;
+    text-align: right;
+}
+
+.cloud_color {
+    color: aqua;
+}
